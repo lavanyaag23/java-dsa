@@ -12,10 +12,9 @@ This repository documents my journey of learning and practicing Data Structures 
 
 * Arrays
 * ArrayList
-* Strings
 
 ### Upcoming 🚀
-
+* Strings
 * Linked Lists
 * Stack
 * Queue
